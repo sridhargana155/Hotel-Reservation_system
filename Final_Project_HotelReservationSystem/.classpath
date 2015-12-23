@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/workspace_for_mars/GUITest/src/GuiDemo/src/mysql-connector-java-5.1.37-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/workspace_for_mars/GUITest/src/GuiDemo/src/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/workspace_for_mars/Final_Project_HotelReservationSystem/src/GuiDemo/src/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/workspace_for_mars/Final_Project_HotelReservationSystem/src/GuiDemo/src/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/workspace_for_mars/Final_Project_HotelReservationSystem/src/GuiDemo/src/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/workspace_for_mars/Final_Project_HotelReservationSystem/src/GuiDemo/src/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/workspace_for_mars/Final_Project_HotelReservationSystem/src/GuiDemo/src/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/workspace_for_mars/Final_Project_HotelReservationSystem/src/GuiDemo/src/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/workspace_for_mars/Final_Project_HotelReservationSystem/src/GuiDemo/src/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/workspace_for_mars/Final_Project_HotelReservationSystem/src/GuiDemo/src/itextpdf-5.5.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
